@@ -2,7 +2,7 @@
   "name": "gtm-nuxt3-miraclebg",
   "version": "1.1.3-1",
   "description": "Google Tag Manager Module for Nuxt 3",
-  "repository": "your-org/my-module",
+  "repository": "nimasystems/gtm-nuxt3",
   "license": "MIT",
   "type": "module",
   "exports": {
